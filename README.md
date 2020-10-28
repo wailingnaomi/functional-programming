@@ -1,5 +1,5 @@
 # functional-programming
-In deze repo vind je alles wat ik heb geleerd tijdens het vak Functional Programming. Het proces staat gedocumenteerd in de [wiki](https://github.com/wailingnaomi/functional-programming/wiki).
+*In deze repo vind je alles wat ik heb geleerd tijdens het vak Functional Programming. Het proces staat gedocumenteerd in de [wiki](https://github.com/wailingnaomi/functional-programming/wiki).*
 
 # De Volkskrant
 
