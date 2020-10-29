@@ -13,7 +13,7 @@ Het doel is om interessante relaties te vinden in de datasets zodat de journalis
 
 Ik heb gekeken naar de datasets *Specificaties Parkeergebied*, *Tijdvak* en *Kaart Verkooppunten*. De inzichten kun je op deze pagina vinden. Het interessantste dataset lijkt mij *Tijdvak*, ik hoop dat dit een niet al te moeilijke dataset is om mee te werken maar toch wel een kleine uitdaging. Ik zou dan graag willen werken met de variabele *DayTimeFrame*, *StartTimeTimeFrame* en *EndTimeTimeFrame*. 
 
-Hoofdvraag en deelvragen:
+Hoofd- en deelvragen:
 
 #### Op welke dagen zijn parkeergelegenheden het meest bezet
 
