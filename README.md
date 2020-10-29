@@ -13,10 +13,12 @@ Het doel is om interessante relaties te vinden in de datasets zodat de journalis
 
 Ik heb gekeken naar de datasets *Specificaties Parkeergebied*, *Tijdvak* en *Kaart Verkooppunten*. De inzichten kun je op deze pagina vinden. Het interessantste dataset lijkt mij *Tijdvak*, ik hoop dat dit een niet al te moeilijke dataset is om mee te werken maar toch wel een kleine uitdaging. Ik zou dan graag willen werken met de variabele *DayTimeFrame*, *StartTimeTimeFrame* en *EndTimeTimeFrame*. 
 
-Mogelijke onderzoeksvragen die ik hierbij kan bedenken:
+Hoofdvraag en deelvragen:
 
-- Zijn er dagen waar er langer wordt geparkeerd dan normaal? (dus bijvoorbeeld feestdagen)
-- Op welke dag(en) wordt er het meest geparkeerd?
-- Zijn er speciale dagen waar er meer word geparkeerd dan normaal?
+#### Op welke dagen zijn parkeergelegenheden het meest bezet
 
-Een andere dataset die Anthony (support-groep 3) gebruikt is de dataset *Speciale Dag*, uit deze dataset kan ik variabele als *NameSpecialDay* of *DateSpecialDay*.
+- Welke feestdagen zijn er in Nederland en heeft deze invloed op parkeergelegenheden?
+- Welke dagen wordt er het meest geparkeerd?
+- In welke tijd van het jaar wordt het meest geparkeerd? (denk aan seizoenen)
+- Wat is de maximale tijdsduur dat je mag parkeren en heeft dit invloed op parkeergelegenheden?
+- Heeft het tarief invloed op parkeergelegenheden?
