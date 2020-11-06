@@ -11,7 +11,7 @@ Het doel is om interessante relaties te vinden in de datasets zodat de journalis
 
 # Onderzoeksvragen
 
-Ik heb gekeken naar de datasets *Specificaties Parkeergebied*, *Tijdvak* en *Kaart Verkooppunten*. De inzichten kun je op deze pagina vinden. Het interessantste dataset lijkt mij *Tijdvak*, ik hoop dat dit een niet al te moeilijke dataset is om mee te werken maar toch wel een kleine uitdaging. Ik zou dan graag willen werken met de variabele *DayTimeFrame*, *StartTimeTimeFrame* en *EndTimeTimeFrame*. 
+Ik heb gekeken naar de datasets *Specificaties Parkeergebied*, *Tijdvak* en *Kaart Verkooppunten*. De inzichten kun je op [deze pagina](https://github.com/wailingnaomi/functional-programming/wiki/Dataset-insights) vinden. Het interessantste dataset lijkt mij *Tijdvak*, ik hoop dat dit een niet al te moeilijke dataset is om mee te werken maar toch wel een kleine uitdaging. Ik zou dan graag willen werken met de variabele *DayTimeFrame*, *StartTimeTimeFrame* en *EndTimeTimeFrame*. 
 
 Hoofd- en deelvragen:
 
@@ -22,3 +22,17 @@ Hoofd- en deelvragen:
 - In welke tijd van het jaar wordt het meest geparkeerd? (denk aan seizoenen)
 - Wat is de maximale tijdsduur dat je mag parkeren en heeft dit invloed op parkeergelegenheden?
 - Heeft het tarief invloed op parkeergelegenheden?
+
+# De data
+De data die ik wil gaan gebruiken zijn:
+- DayTimeFrame: namen van de dagen 
+- StartTimeTimeFrame: tijdstip waarop een bepaald tijdvak begint
+- EndTimetimeFrame: tijdstip waarop het tijdvak eindigt
+
+Voor de waardes die leeg zijn of invalide laat ik weg bij het onderzoek als het kan, zal ik de invalide waardes veranderen naar valide waardes.
+
+# Functional Programming patronen
+
+# Credits
+- Docenten van het vak (Laurens, Danny en Robert)
+- Nadine en Nathan voor de feedback
