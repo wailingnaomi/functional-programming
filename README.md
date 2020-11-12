@@ -31,7 +31,6 @@ De data die ik wil gaan gebruiken zijn:
 
 Voor de waardes die leeg zijn of invalide laat ik weg bij het onderzoek als het kan, zal ik de invalide waardes veranderen naar valide waardes.
 
-# Functional Programming patronen
 
 # Credits
 - Docenten van het vak (Laurens, Danny en Robert)
