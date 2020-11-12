@@ -28,6 +28,8 @@ getData(endpoint)
         const test = countUnique(columnArray)
         console.log("count unique values", test)
 
+        const specifiekeAuto = autos(RDWData, "Personenauto")
+        console.log(specifiekeAuto)
     })
 
 
@@ -82,4 +84,8 @@ function countUnique(arr) {
 
 }
 
+
+function autos(dataArr, specificValue){
+    return dataArr.filter((item) => item["voertuigsoort"] == specificValue)
+}
 
