@@ -9,27 +9,23 @@ Voor dit project werken we samen met de Volkskrant. De Volkskrant is een Nederla
 
 Het doel is om interessante relaties te vinden in de datasets zodat de journalisten van de Volkskrant hier artikelen over kan schrijven. Wij verzamelen, analyseren en uiteindelijk visualiseren we de data op een manier dat de journalisten het kunnen gebruiken.
 
-# Onderzoeksvragen
+# Concept
+Een leuk thema/onderwerp waar ik verder mee wil werken is wat voor populaire kenmerken personenauto's hebben. In de wiki kun je [uitgebreid lezen over het proces](https://github.com/wailingnaomi/functional-programming/wiki/Concept-proces) van het ontwikkelen ervan en [mijn definitief concept](https://github.com/wailingnaomi/frontend-data/wiki/Definitief-concept). Helaas is het mij niet gelukt om mijn heel concept te visualiseren.
 
-Ik heb gekeken naar de datasets *Specificaties Parkeergebied*, *Tijdvak* en *Kaart Verkooppunten*. De inzichten kun je op [deze pagina](https://github.com/wailingnaomi/functional-programming/wiki/Dataset-insights) vinden. Het interessantste dataset lijkt mij *Tijdvak*, ik hoop dat dit een niet al te moeilijke dataset is om mee te werken maar toch wel een kleine uitdaging. Ik zou dan graag willen werken met de variabele *DayTimeFrame*, *StartTimeTimeFrame* en *EndTimeTimeFrame*. 
+### Hoofdvraag
+Zijn er verschillende populaire kenmerken onder personenauto's?
 
-Hoofd- en deelvragen:
+### Deelvragen
+- Welke kleur komt het meeste voor onder personenauto's?
+- Welk merk komt het meeste voor onder personenauto's?
+- Zijn de personenauto's zuinig, zoja welk zuinigheidslabel hebben ze?
+- Is er een verschil in catalogusprijs door de jaren heen voor personenauto's?
 
-#### Op welke dagen zijn parkeergelegenheden het meest bezet
+### Data
+De data die ik heb gebruikt om mijn visualisatie te maken is van de RDW: [Gekentekende voertuigen](https://opendata.rdw.nl/Voertuigen/Open-Data-RDW-Gekentekende_voertuigen/m9d7-ebf2). Van deze dataset gebruik ik alleen de data van personenauto, de kleur en het merk ervan [(zie proces hier)](https://github.com/wailingnaomi/frontend-data/wiki/Data-inladen,-opschonen-en-filteren). Van de data die geen of invalide waardes hadden werden al door de RDW opgeslagen als _n.v.t._ of _niet geregistreerd_. 
 
-- Welke feestdagen zijn er in Nederland en heeft deze invloed op parkeergelegenheden?
-- Welke dagen wordt er het meest geparkeerd?
-- In welke tijd van het jaar wordt het meest geparkeerd? (denk aan seizoenen)
-- Wat is de maximale tijdsduur dat je mag parkeren en heeft dit invloed op parkeergelegenheden?
-- Heeft het tarief invloed op parkeergelegenheden?
-
-# De data
-De data die ik wil gaan gebruiken zijn:
-- DayTimeFrame: namen van de dagen 
-- StartTimeTimeFrame: tijdstip waarop een bepaald tijdvak begint
-- EndTimetimeFrame: tijdstip waarop het tijdvak eindigt
-
-Voor de waardes die leeg zijn of invalide laat ik weg bij het onderzoek als het kan, zal ik de invalide waardes veranderen naar valide waardes.
+### Schets
+![IMG_1564](https://user-images.githubusercontent.com/55541888/99059069-566d5b80-259e-11eb-880b-6c29a1f97cdc.jpg)
 
 
 # Credits
